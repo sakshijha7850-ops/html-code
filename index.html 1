@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Webpage</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Webpage</h1>
+
+    <p>
+        This is the first paragraph of my webpage. 
+        It is used to explain the main idea of the page.
+    </p>
+
+    <p>
+        This is the second paragraph. 
+        It gives additional information related to the topic.
+    </p>
+
+</body>
+</html>
